@@ -1,0 +1,7 @@
+#include <iostream>
+using namespect std;
+
+int main()
+{
+	cout<<"nihao"<<endl;
+}
